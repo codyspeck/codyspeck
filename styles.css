@@ -1,0 +1,13 @@
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h1 {
+  font-size: 36px;
+}

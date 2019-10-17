@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{10:function(n,e,t){"use strict";t.r(e);var a=t(0),o=t.n(a),r=t(2),c=t.n(r),i=t(3),u=t.n(i);var l=function(){return o.a.createElement("div",{className:u.a.container},o.a.createElement("h1",null,"> Cody Peck"))};c.a.render(o.a.createElement(l,null),document.getElementById("root"))},3:function(n,e,t){n.exports={container:"App_container__1QFi5"}},4:function(n,e,t){n.exports=t(10)}},[[4,1,2]]]);
+//# sourceMappingURL=main.2de8dd65.chunk.js.map
